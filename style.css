@@ -80,14 +80,6 @@ button {
     border-radius: 20px;
     overflow: hidden;
     scroll-snap-align: start;
-    
-    
-    /*min-width: 640px;
-    height: 360px;
-    border-radius: 20px;
-    scroll-snap-align: start;
-    display: flex;
-    overflow: hidden;*/
 }
 
 .card video{
